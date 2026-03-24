@@ -47,4 +47,5 @@ const markHigherbmi2 = bmiMark > bmiJohn2;
 
 console.log(bmiMark2);
 console.log(bmiJohn2)
+console.log(markHigherbmi2)
 ```
