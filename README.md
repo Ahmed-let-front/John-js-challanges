@@ -1,32 +1,20 @@
-# 🚀 The Complete JavaScript Course: Mastery Path
+<h1 align="center">🚩 JavaScript Fundamentals – Part 1</h1>
 
 <p align="center">
-  <b>Ahmed Yasser | Junior Front-End Developer</b><br>
-  My journey through Jonas Schmedtmann's JavaScript curriculum, organized by logic and challenges.
+  Detailed solutions and logical breakdown for the first section of <b>Jonas Schmedtmann's</b> course.
 </p>
 
 ---
 
-## 📂 Course Navigation
-Select a section below to explore the challenges and detailed solutions:
+## 📁 Challenges Index
+This section contains 19 levels of challenges. Select one to view the solution:
 
-### 🔹 Section 1: JavaScript Fundamentals – Part 1
-* **[Go to Part 1 Challenges](./Part-1-Fundamentals/)**
-  * *Topics: Variables, Data Types, Operators, and BMI Challenges.*
-
-### 🔹 Section 2: JavaScript Fundamentals – Part 2
-* **[Go to Part 2 Challenges](./Part-2-Fundamentals/)**
-  * *Topics: Functions, Arrays, and Objects.*
-
----
-
-## 🏗️ Technical Stack
-* **Language:** JavaScript (ES6+)
-* **Environment:** Browser Console & Node.js
-* **Principles:** Descriptive naming and logical structuring.
+* **[Challenge #1: BMI Calculator](./Challenge-1/)**
+    * *Topics: Math operators, BMI Formula, Boolean logic.*
+* **Challenge #2: Strings & If/Else (Coming Soon)**
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Ahmed-let-front">🔗 My GitHub Profile</a>
+  <a href="../">⬅️ Back to Main Index</a>
 </p>
