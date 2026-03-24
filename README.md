@@ -1,32 +1,57 @@
-# 🚀 The Complete JavaScript Course: Mastery Path
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="50" />
+  <br>Jonas Schmedtmann: JavaScript Mastery Path
+</h1>
 
 <p align="center">
-  <b>Ahmed Yasser | Junior Front-End Developer</b><br>
-  My journey through Jonas Schmedtmann's JavaScript curriculum, organized by logic and challenges.
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Year-2026-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Ahmed+Yasser;Junior+Front-End+Developer;Mastering+JavaScript+Logic" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📂 Course Navigation
-Select a section below to explore the challenges and detailed solutions:
+### 📂 Course Journey Map
 
-### 🔹 Section 1: JavaScript Fundamentals – Part 1
-* **[Go to Part 1 Challenges](./Part-1-Fundamentals/)**
-  * *Topics: Variables, Data Types, Operators, and BMI Challenges.*
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPKYTVNiAmeQ/giphy.gif" width="300">
+</p>
 
-### 🔹 Section 2: JavaScript Fundamentals – Part 2
-* **[Go to Part 2 Challenges](./Part-2-Fundamentals/)**
-  * *Topics: Functions, Arrays, and Objects.*
+| Section       | Content                             |                 Link                  |
+| :------------ | :---------------------------------- | :-----------------------------------: |
+| 🔹 **Part 1** | Fundamentals, BMI Challenges, Logic | [**Explore**](./Part-1-Fundamentals/) |
+| 🔹 **Part 2** | Functions, Arrays, Objects          | [**Explore**](./Part-2-Fundamentals/) |
+| 🔹 **Part 3** | DOM & Events                        |                _Soon_                 |
 
 ---
 
-## 🏗️ Technical Stack
-* **Language:** JavaScript (ES6+)
-* **Environment:** Browser Console & Node.js
-* **Principles:** Descriptive naming and logical structuring.
+### 🏗️ Technical Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+- 🚀 **High-Level Logic:** Deep diving into the "Why" and "How".
+- 🧹 **Clean Code:** Following industry standards and naming conventions.
+- 📝 **Documentation:** Detailed README for every single challenge.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Ahmed-let-front">🔗 My GitHub Profile</a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="30" />
+  <b>Stay Connected:</b><br>
+  <a href="https://github.com/Ahmed-let-front">
+    <img src="https://img.shields.io/badge/Ahmed--let--front-Visit_Profile-black?style=social&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
