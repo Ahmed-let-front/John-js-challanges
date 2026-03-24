@@ -9,7 +9,7 @@
 ## 📁 Challenges Index
 This section contains 19 levels of challenges. Select one to view the solution:
 
-* **[Challenge #1: BMI Calculator](./Challenge-1/)**
+* **[Challenge #1: BMI Calculator](./Challange-1/)**
     * *Topics: Math operators, BMI Formula, Boolean logic.*
 * **Challenge #2: Strings & If/Else (Coming Soon)**
 
