@@ -22,7 +22,7 @@ _Current Goal: Completing 19 Fundamental Lessons_
 | 🏆 Level  | 📝 Lesson & Challenge                  |                                 ⚡ Status                                     |               🔗 Link               |
 | :-------: | :------------------------------------- | :---------------------------------------------------------------------------: | :--------------------------------: |
 | 🟢 **01** | **BMI Calculator:** Math Operators     |     ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challange1/) |
-| 🟢 **02** | **Coding Challenge #2:** Strings & If/Else |     ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challange2/) |
+| 🟢 **02** | **Coding Challenge #2:** Strings & If/Else |     ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./chellenge2/) |
 | ⚪ **03** | **Type Conversion & Coercion** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |               _Locked_               |
 | ⚪ **04** | **Truthy & Falsy Values** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |               _Locked_               |
 | ⚪ **05** | **Equality Operators (== vs ===)** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |               _Locked_               |
