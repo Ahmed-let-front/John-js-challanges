@@ -12,19 +12,20 @@ Detailed solutions and logical breakdown for the first section of **Jonas Schmed
 
 ### 📊 Section Progress
 
-![Progress](https://geps.dev/progress/10?dangerColor=ff4b2b&warningColor=f9d423&successColor=00d2ff)
+![Progress](https://geps.dev/progress/15?dangerColor=ff4b2b&warningColor=f9d423&successColor=00d2ff)
 _Current Goal: Completing 19 Fundamental Lessons_
 
 ---
 
 ### 📁 Mastery Roadmap 🚀
 
-| 🏆 Level  | 📝 Lesson & Challenge                  |                                 ⚡ Status                                     |               🔗 Link               |
-| :-------: | :------------------------------------- | :---------------------------------------------------------------------------: | :--------------------------------: |
-| 🟢 **01** | **BMI Calculator:** Math Operators     |     ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challange1/) |
-| 🟢 **02** | **Coding Challenge #2:** Strings & If/Else |     ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./chellenge2/) |
-| ⚪ **03** | **Type Conversion & Coercion** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |               _Locked_               |
-| ⚪ **04** | **Truthy & Falsy Values** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |               _Locked_               |
+| 🏆 Level  | 📝 Lesson & Challenge                 |                       ⚡ Status                                |                🔗 Link                |
+| :-------: | :------------------------------------ | :--------------------------------------------------------------------------: | :----------------------------------: |
+| 🟢 **01** | **BMI Calculator:** Math Operators    |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge1/) |
+| 🟢 **02** | **BMI Comparison:** Strings & If/Else |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge2/) |
+| 🟢 **03** | **Gymnastics Competition:** Logic     |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge3/) |
+| ⚪ **04** | **Type Conversion & Coercion** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |                _Locked_                |
+| ⚪ **05** | **Truthy & Falsy Values** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |                _Locked_                |
 
 ---
 
