@@ -4,7 +4,7 @@
 
 # 🚩 Section 01: The Core Basics
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Type](https://img.shields.io/badge/Focus-Logic_Fundamentals-green?style=for-the-badge) ![Levels](https://img.shields.io/badge/Levels-19_Total-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Type](https://img.shields.io/badge/Focus-Logic_Fundamentals-green?style=for-the-badge) ![Levels](https://img.shields.io/badge/Levels-4_Challenges_Completed-blue?style=for-the-badge)
 
 Detailed solutions and logical breakdown for the first section of **Jonas Schmedtmann's** course.
 
@@ -12,28 +12,27 @@ Detailed solutions and logical breakdown for the first section of **Jonas Schmed
 
 ### 📊 Section Progress
 
-![Progress](https://geps.dev/progress/15?dangerColor=ff4b2b&warningColor=f9d423&successColor=00d2ff)
-_Current Goal: Completing 19 Fundamental Lessons_
+![Progress](https://geps.dev/progress/100?dangerColor=ff4b2b&warningColor=f9d423&successColor=00d2ff)
+_Status: Part 1 Completed Successfully! 🏆_
 
 ---
 
 ### 📁 Mastery Roadmap 🚀
 
-| 🏆 Level  | 📝 Lesson & Challenge                 |                       ⚡ Status                                |                🔗 Link                |
+| 🏆 Level  | 📝 Lesson & Challenge                 |                      ⚡ Status                                        |                🔗 Link                |
 | :-------: | :------------------------------------ | :--------------------------------------------------------------------------: | :----------------------------------: |
 | 🟢 **01** | **BMI Calculator:** Math Operators    |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge1/) |
 | 🟢 **02** | **BMI Comparison:** Strings & If/Else |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge2/) |
 | 🟢 **03** | **Gymnastics Competition:** Logic     |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge3/) |
-| ⚪ **04** | **Type Conversion & Coercion** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |                _Locked_                |
-| ⚪ **05** | **Truthy & Falsy Values** | ![Pending](https://img.shields.io/badge/-PENDING-lightgrey?style=flat-square) |                _Locked_                |
+| 🟢 **04** | **Tip Calculator:** Ternary Operator  |      ![Done](https://img.shields.io/badge/-DONE-success?style=flat-square)      | [**View Solution**](./challenge4/) |
 
 ---
 
 ### 🧠 Core Concepts in this Part
 
-- 🔢 **Math Operators:** Powering calculations.
-- 🏗️ **Data Architecture:** Strings, Numbers & Booleans.
-- 🚦 **Flow Control:** Logic and Decision making.
+- 🔢 **Math Operators:** Powering calculations and BMI logic.
+- 🏗️ **Data Architecture:** Type Conversion, Coercion, and Truthy/Falsy values.
+- 🚦 **Flow Control:** Logic gates, If/Else, and Ternary Operators.
 
 ---
 
