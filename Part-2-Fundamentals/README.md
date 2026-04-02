@@ -1,23 +1,17 @@
 # 🚀 JavaScript Fundamentals – Part 2
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Progress-35%25-brightgreen?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Challenges-1%2F4-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge&animate=true" />
 </p>
-
-This repository documents my progress through **Part 2** of the JavaScript course. It focuses on mastering functions, arrays, objects, and loops.
 
 ***
 
 ## 📑 Curriculum & Progress
 
-- [x] **Section Intro**
-- [x] **Activating Strict Mode**
-- [x] **Functions**
-- [x] **Function Declarations vs. Expressions**
-- [x] **Arrow Functions**
-- [x] **Functions Calling Other Functions**
+- [x] **Strict Mode & Functions**
+- [x] **Arrow Functions & Calling Functions**
 - [ ] **Introduction to Arrays**
 - [ ] **Basic Array Operations (Methods)**
 - [ ] **Introduction to Objects**
@@ -30,34 +24,38 @@ This repository documents my progress through **Part 2** of the JavaScript cours
 
 ***
 
-## 🏆 Coding Challenges
 
-| Challenge Number | Topic | Status | Link to Code |
-| :--- | :--- | :--- | :--- |
-| **Challenge #1** | Gymnastics Teams (Functions) | ✅ Completed | [View Solution](./challenge1) |
-| **Challenge #2** | Tip Calculator (Arrays) | ⏳ Upcoming | [View Solution](#) |
-| **Challenge #3** | BMI Comparison (Objects) | ⏳ Upcoming | [View Solution](#) |
-| **Challenge #4** | Tip Calculator Vol. 2 (Loops) | ⏳ Upcoming | [View Solution](#) |
 
-***
+## 🏆 Main Challenges
 
-## 📊 Results: Challenge #1
+### [🚀 Challenge #1](./challenge1)
+**Status:** `✅ Completed`
 
-| Test Case | Dolphins Avg | Koalas Avg | Winner Result |
-| :--- | :--- | :--- | :--- |
-| **DATA 1** | 46 | 56 | *No team wins...* |
-| **DATA 2** | 60 | 28 | **Dolphins win (60 vs. 28)** |
+---
+
+### [📂 Challenge #2](#)
+**Status:** `⏳ Upcoming`
+
+---
+
+### [📊 Challenge #3](#)
+**Status:** `⏳ Upcoming`
+
+---
+
+### [⚙️ Challenge #4](#)
+**Status:** `⏳ Upcoming`
+
 
 ***
 
 ## 🛠️ Skills Acquired
-* Writing clean, reusable **Functions**.
-* Understanding **Strict Mode** for safer debugging.
-* Differentiating between **Function Declarations, Expressions, and Arrow Functions**.
 
-***
-
-<p align="right">
-  <b>Author:</b> <a href="https://github.com/Ahmed-let-front">Ahmed-let-front</a> <br>
-  <b>Date Started:</b> April 2026
-</p>
+```javascript
+const skills = {
+  functions: ["Declarations", "Expressions", "Arrow Functions"],
+  dataStructures: ["Arrays", "Objects"],
+  logic: ["Looping", "Branching", "Function Calling"],
+  safety: "Strict Mode Activation",
+  status: "Learning in progress..."
+};
