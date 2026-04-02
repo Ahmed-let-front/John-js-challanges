@@ -1,5 +1,11 @@
 # 🚀 JavaScript Fundamentals – Part 2
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Progress-35%25-brightgreen?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Challenges-1%2F4-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge&logo=github" />
+</p>
+
 This repository documents my progress through **Part 2** of the JavaScript course. It focuses on mastering functions, arrays, objects, and loops.
 
 ***
@@ -28,7 +34,7 @@ This repository documents my progress through **Part 2** of the JavaScript cours
 
 | Challenge Number | Topic | Status | Link to Code |
 | :--- | :--- | :--- | :--- |
-| **Challenge #1** | Gymnastics Teams (Functions) | ✅ Completed | [View Solution](./challenge1.js) |
+| **Challenge #1** | Gymnastics Teams (Functions) | ✅ Completed | [View Solution](./challenge1) |
 | **Challenge #2** | Tip Calculator (Arrays) | ⏳ Upcoming | [View Solution](#) |
 | **Challenge #3** | BMI Comparison (Objects) | ⏳ Upcoming | [View Solution](#) |
 | **Challenge #4** | Tip Calculator Vol. 2 (Loops) | ⏳ Upcoming | [View Solution](#) |
@@ -51,5 +57,7 @@ This repository documents my progress through **Part 2** of the JavaScript cours
 
 ***
 
-**Author:** [Ahmed-let-front](https://github.com/Ahmed-let-front)
-**Date Started:** April 2026
+<p align="right">
+  <b>Author:</b> <a href="https://github.com/Ahmed-let-front">Ahmed-let-front</a> <br>
+  <b>Date Started:</b> April 2026
+</p>
