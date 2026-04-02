@@ -27,10 +27,16 @@ The logic determines a winner based on whether one team's average score is at le
 // Function to calculate the average of 3 scores
 const calcAverage = (score1, score2, score3) => (score1 + score2 + score3) / 3;
 
-// --- DATA 1 ---
+// --- TEST DATA 1 ---
 let scoreDolphins = calcAverage(44, 23, 71);
 let scoreKoalas = calcAverage(65, 54, 49);
 
+// Optional: Console log for testing/debugging purposes (Not part of the actual solution logic)
+console.log(scoreDolphins, scoreKoalas);
+
+/**
+ * Function to check the winner based on the "Double Score" rule
+ */
 const checkWinner = (avgDolphins, avgKoalas) => {
   if (avgDolphins >= 2 * avgKoalas) {
     console.log(`Dolphins win (${avgDolphins} vs. ${avgKoalas})`);
@@ -41,12 +47,12 @@ const checkWinner = (avgDolphins, avgKoalas) => {
   }
 };
 
-// Test Data 1
+// Check winner for Data 1
 checkWinner(scoreDolphins, scoreKoalas);
 
-// --- DATA 2 ---
+// --- TEST DATA 2 ---
 scoreDolphins = calcAverage(85, 54, 41);
 scoreKoalas = calcAverage(23, 34, 27);
 
-// Test Data 2
+// Check winner for Data 2
 checkWinner(scoreDolphins, scoreKoalas);
