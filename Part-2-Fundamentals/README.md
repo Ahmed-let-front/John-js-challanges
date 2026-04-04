@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge&animate=true" />
 </p>
 
-***
+---
 
 ## 📑 Curriculum & Progress
 
@@ -22,29 +22,33 @@
 - [ ] **Looping Backwards and Loops in Loops**
 - [ ] **The while Loop**
 
-***
+---
 
 ## 🏆 Main Challenges
 
 ### [🚀 Challenge #1](./challenge1)
+
 **Status:** `✅ Completed`
 
 ---
 
 ### [📂 Challenge #2](./challenge2)
+
 **Status:** `✅ Completed`
 
 ---
 
 ### [📊 Challenge #3](#)
+
 **Status:** `⏳ Upcoming`
 
 ---
 
 ### [⚙️ Challenge #4](#)
+
 **Status:** `⏳ Upcoming`
 
-***
+---
 
 ## 🛠️ Skills Acquired
 
@@ -55,5 +59,6 @@ const skills = {
   logic: ["Ternary Operator", "Branching", "Function Calling"],
   arrayOperations: ["push", "pop", "unshift", "shift", "indexOf", "includes"],
   safety: "Strict Mode Activation",
-  status: "Advancing to Objects..."
+  status: "Advancing to Objects...",
 };
+```
