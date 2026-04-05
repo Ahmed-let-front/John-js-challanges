@@ -1,9 +1,9 @@
 # 🚀 JavaScript Fundamentals – Part 2
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-75%25-brightgreen?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Challenges-3%2F4-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge&animate=true" />
+  <img src="https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Challenges-4%2F4-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Mastered-gold?style=for-the-badge" />
 </p>
 
 ---
@@ -17,10 +17,10 @@
 - [x] **Introduction to Objects**
 - [x] **Dot vs. Bracket Notation**
 - [x] **Object Methods & The `this` Keyword**
-- [ ] **Iteration: The for Loop**
-- [ ] **Looping Arrays, Breaking and Continuing**
-- [ ] **Looping Backwards and Loops in Loops**
-- [ ] **The while Loop**
+- [x] **Iteration: The for Loop**
+- [x] **Looping Arrays, Breaking and Continuing**
+- [x] **Looping Backwards and Loops in Loops**
+- [x] **The while Loop**
 
 ---
 
@@ -44,9 +44,9 @@
 
 ---
 
-### [⚙️ Challenge #4](#)
+### [⚙️ Challenge #4](./challenge4)
 
-**Status:** `⏳ Upcoming`
+**Status:** `✅ Completed` (The Final Boss 🏆)
 
 ---
 
@@ -57,9 +57,15 @@ const skills = {
   functions: ["Declarations", "Expressions", "Arrow Functions"],
   dataStructures: ["Arrays (Advanced Methods)", "Objects (Literal & Dynamic)"],
   logic: ["Ternary Operator", "Short-circuiting", "Method Calling"],
+  iteration: [
+    "For Loops",
+    "While Loops",
+    "Nested Loops",
+    "Loop Control (Break/Continue)",
+  ],
   memoryManagement: ["Heap Mutation", "State Persistence via 'this'"],
   oopBasics: ["Encapsulation", "Method Chaining (Preparation)"],
   safety: "Strict Mode Activation & Error Handling",
-  status: "Mastering Iteration and Loops...",
+  status: "Full Fundamentals Mastery Achieved!",
 };
 ```
