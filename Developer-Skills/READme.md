@@ -30,7 +30,7 @@ My goal for this section is to transition from just "writing code" to "solving p
 | Challenge | Topic                | Key Concepts Covered                    | Status         | Link                                  |
 | :-------- | :------------------- | :-------------------------------------- | :------------- | :------------------------------------ |
 | **#01**   | Thermometer Forecast | Rest Params, `.flat()`, Type Validation | ✅ Completed   | [View Challenge #01](./challenge1/) |
-| **#02**   | Freelance Tracker    | Object Return Pattern, Edge Case Logic  | ✅ Completed   | [View Challenge #02](./Challenge-02/) |
+| **#02**   | Freelance Tracker    | Object Return Pattern, Edge Case Logic  | ✅ Completed   | [View Challenge #02](./Challenge2/) |
 
 ---
 
