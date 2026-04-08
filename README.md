@@ -21,7 +21,7 @@ _Status: Mastering Developer Skills & Problem Solving_
 | :--- | :--- | :---: | :---: |
 | **Part 1** | Fundamentals, Logic, Basic Operators | ✅ **DONE** | [**Explore**](./Part-1-Fundamentals/) |
 | **Part 2** | Functions, Arrays, Objects, Loops | ✅ **DONE** | [**Explore**](./Part-2-Fundamentals/) |
-| **Dev Skills** | Debugging, Problem Solving, Clean Code | 🚀 **In Progress** | [**View Lab**](./Developer-skills/) |
+| **Dev Skills** | Debugging, Problem Solving, Clean Code | 🚀 **In Progress** | [**View Lab**](./Developer-Skills/) |
 
 ---
 
