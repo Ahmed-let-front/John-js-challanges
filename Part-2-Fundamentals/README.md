@@ -44,7 +44,7 @@
 
 ---
 
-### [⚙️ Challenge #4](./challenge4)
+### [⚙️ Challenge #4](./challlenge4)
 
 **Status:** `✅ Completed` (The Final Boss 🏆)
 
