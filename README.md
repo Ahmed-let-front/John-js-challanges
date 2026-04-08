@@ -12,8 +12,8 @@
 
 ### 📊 My Progress Dashboard
 
-![Progress Bar](https://geps.dev/progress/65?dangerColor=ff4b2b&warningColor=f9d423&successColor=00d2ff)
-_Status: Mastering Developer Skills & Problem Solving_
+![Progress Bar](https://geps.dev/progress/75?dangerColor=ff4b2b&warningColor=f9d423&successColor=00d2ff)
+_Status: Mastering the DOM & Web APIs (Next Stop: DOM Manipulation)_
 
 ---
 
@@ -21,7 +21,7 @@ _Status: Mastering Developer Skills & Problem Solving_
 | :--- | :--- | :---: | :---: |
 | **Part 1** | Fundamentals, Logic, Basic Operators | ✅ **DONE** | [**Explore**](./Part-1-Fundamentals/) |
 | **Part 2** | Functions, Arrays, Objects, Loops | ✅ **DONE** | [**Explore**](./Part-2-Fundamentals/) |
-| **Dev Skills** | Debugging, Problem Solving, Clean Code | 🚀 **In Progress** | [**View Lab**](./Developer-Skills/) |
+| **Dev Skills** | Debugging, Logic Building, Dev Tools | ✅ **DONE** | [**View Lab**](./Developer-Skills/) |
 
 ---
 
@@ -38,9 +38,9 @@ _Status: Mastering Developer Skills & Problem Solving_
 
 ### 🔍 What I'm Mastering Right Now
 
-- 🛠️ **Advanced Debugging:** Using Breakpoints and Scope analysis to hunt bugs.
-- 🧩 **Problem Solving:** Breaking down complex business logic into atomic steps.
-- 🧹 **Robust Code:** Writing fail-safe functions with proper data validation.
+- 🌐 **DOM Manipulation:** Bringing static pages to life with JavaScript.
+- ⚡ **Event Listeners:** Creating interactive user experiences.
+- 🏗️ **UI Architecture:** Designing clean and scalable component structures.
 
 ---
 
